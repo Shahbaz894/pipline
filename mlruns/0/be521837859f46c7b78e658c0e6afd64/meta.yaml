@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pipline/mlruns/0/be521837859f46c7b78e658c0e6afd64/artifacts
+end_time: 1701861890900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be521837859f46c7b78e658c0e6afd64
+run_name: bald-steed-367
+run_uuid: be521837859f46c7b78e658c0e6afd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701861889659
+status: 3
+tags: []
+user_id: lenovo
